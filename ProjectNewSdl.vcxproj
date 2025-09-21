@@ -51,6 +51,9 @@
     <ClCompile Include="Text.cpp" />
     <ClCompile Include="ThreatsObject.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\..\Downloads\ARIAL.TTF" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

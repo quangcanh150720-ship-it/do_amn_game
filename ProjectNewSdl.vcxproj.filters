@@ -105,4 +105,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\..\..\..\Downloads\ARIAL.TTF">
+      <Filter>Source Files</Filter>
+    </Font>
+  </ItemGroup>
 </Project>
